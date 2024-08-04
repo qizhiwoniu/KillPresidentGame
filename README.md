@@ -1,2 +1,2 @@
-# KillPresidentGame-
+# KillPresidentGame
 Kill President
